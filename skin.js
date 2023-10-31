@@ -1,7 +1,7 @@
 // Garden Gnome Software - Skin
 // Pano2VR 7.0.6/20004
 // Filename: KT?????-84A.ggsk
-// Generated 2023-10-31T11:26:33
+// Generated 2023-10-31T13:27:23
 
 function pano2vrSkin(player,base) {
 	player.addVariable('vis_mobilemenu', 2, false, { ignoreInState: 0  });
@@ -20710,7 +20710,7 @@ function pano2vrSkin(player,base) {
 					((player._(me.ggUserdata.information) != "84A"))
 				)
 			) {
-				player.openUrl("","");
+				player.openUrl("https:\/\/web-kt-84a-12fhqa2blnsl13cq.sel5.cloudtype.app\/","");
 			}
 		}
 		me.__84a.onmouseover=function (e) {
@@ -21573,7 +21573,7 @@ function pano2vrSkin(player,base) {
 		els.setAttribute('style',hs);
 		me._type4.ggUpdateText=function() {
 			var params = [];
-			var hs = player._("84B TYPE", params);
+			var hs = player._("84A TYPE", params);
 			if (hs!=this.ggText) {
 				this.ggText=hs;
 				this.ggTextDiv.innerHTML=hs;
@@ -21623,7 +21623,7 @@ function pano2vrSkin(player,base) {
 					((player._(me.ggUserdata.information) != "84A"))
 				)
 			) {
-				player.openUrl("","");
+				player.openUrl("https:\/\/web-kt-84a-12fhqa2blnsl13cq.sel5.cloudtype.app\/","");
 			}
 		}
 		me._type4.ggUpdatePosition=function (useTransition) {
@@ -22957,7 +22957,7 @@ function pano2vrSkin(player,base) {
 		els.setAttribute('style',hs);
 		me._type2.ggUpdateText=function() {
 			var params = [];
-			var hs = player._("29A TYPE", params);
+			var hs = player._("84A TYPE", params);
 			if (hs!=this.ggText) {
 				this.ggText=hs;
 				this.ggTextDiv.innerHTML=hs;
@@ -24646,7 +24646,7 @@ function pano2vrSkin(player,base) {
 		els.setAttribute('style',hs);
 		me._type2offeng3.ggUpdateText=function() {
 			var params = [];
-			var hs = player._("29A TYPE", params);
+			var hs = player._("84A TYPE", params);
 			if (hs!=this.ggText) {
 				this.ggText=hs;
 				this.ggTextDiv.innerHTML=hs;
@@ -25337,7 +25337,7 @@ function pano2vrSkin(player,base) {
 		els.setAttribute('style',hs);
 		me._type2offkor3.ggUpdateText=function() {
 			var params = [];
-			var hs = player._("84B TYPE", params);
+			var hs = player._("84A TYPE", params);
 			if (hs!=this.ggText) {
 				this.ggText=hs;
 				this.ggTextDiv.innerHTML=hs;
